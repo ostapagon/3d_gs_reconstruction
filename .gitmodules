@@ -1,0 +1,3 @@
+[submodule "submodules/Depth-Anything"]
+	path = submodules/Depth-Anything
+	url = git@github.com:ostapagon/Depth-Anything.git
