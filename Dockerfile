@@ -100,5 +100,5 @@ RUN cd /app/submodules/co3d && pip install -e .
 
 RUN pip install --no-cache-dir pytorch3d -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py310_cu117_pyt200/download.html
 
-# RUN cd /app/submodules/diff-gaussian-rasterization && pip install -e . 
-# RUN cd /app/submodules/simple-knn && pip install -e . 
+# RUN cd /app/submodules/gaussian-splatting/submodules/diff-gaussian-rasterization && pip install -e . 
+# RUN cd /app/submodules/gaussian-splatting/submodules/simple-knn && pip install -e . 

@@ -1,3 +1,6 @@
 [submodule "submodules/Depth-Anything"]
 	path = submodules/Depth-Anything
 	url = git@github.com:ostapagon/Depth-Anything.git
+[submodule "submodules/gaussian-splatting"]
+	path = submodules/gaussian-splatting
+	url = git@github.com:ostapagon/gaussian-splatting.git
